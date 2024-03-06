@@ -1,0 +1,19 @@
+.Cuadrado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    background-color: aquamarine;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.Cuadrado p{
+    font-size: 5em;
+}
+.Cuadrado:hover{
+    background-color: rgb(255, 240, 70);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
